@@ -6,12 +6,12 @@
 
 ## 🌟 Highlights
 
-* ⚽ **Interactive Ballon d'Or analysis** built with Power BI
-* 📊 Compare candidates using **Rating, G/A per 90 minutes, Goals, Assists, Successful Dribble, Pass Attemps, and Successful Passes**
-* 🏆 Explore player achievements, **Standing Rank**, and **Player Star Rating**
-* 🕸️ Analyze individual performance through **Radar Chart** and **Heat Map**
-* 🖱️ Navigate from **All Candicate → Overview → Player Drill Through**
-* 🎨 Designed with a football-focused visual style and interactive player experience
+*  **Interactive Ballon d'Or analysis** built with Power BI
+*  Compare candidates using **Rating, G/A per 90 minutes, Goals, Assists, Successful Dribble, Pass Attemps, and Successful Passes**
+*  Explore player achievements, **Standing Rank**, and **Player Star Rating**
+*  Analyze individual performance through **Radar Chart** and **Heat Map**
+*  Navigate from **All Candicate → Overview → Player Drill Through**
+*  Designed with a football-focused visual style and interactive player experience
 
 ## ℹ️ Overview
 
@@ -23,11 +23,11 @@ The dashboard combines performance metrics, rankings, achievements, and interact
 
 ## 🛠️ Skills Showcased
 
-* ⚙️ **Data Transformation & Data Modeling** — Preparing football data for player-level analysis and comparison
-* 🧮 **DAX Measures** — Creating analytical metrics such as **Rating, G/A per 90 minutes, and Standing Rank**
-* 📊 **Data Visualization** — Using Cards, Charts, Tables, Radar Chart, and Heat Map
-* 🖱️ **Interactive Reporting** — Implementing slicers, player selection, navigation, bookmarks, and Drill Through
-* 🎨 **Dashboard Design** — Building a cohesive Ballon d'Or visual identity with structured information hierarchy
+*  **Data Transformation & Data Modeling** — Preparing football data for player-level analysis and comparison
+*  **DAX Measures** — Creating analytical metrics such as **Rating, G/A per 90 minutes, and Standing Rank**
+*  **Data Visualization** — Using Cards, Charts, Tables, Radar Chart, and Heat Map
+*  **Interactive Reporting** — Implementing slicers, player selection, navigation, bookmarks, and Drill Through
+*  **Dashboard Design** — Building a cohesive Ballon d'Or visual identity with structured information hierarchy
 
 ## 🚀 Usage
 
