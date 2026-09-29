@@ -1,6 +1,6 @@
 # Ballon d'Or Dashboard with Power BI
 
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTQ5NGIxMWEtZjgwOS00NTBlLWE1YWUtZmNmNGU1MTFlYzA5IiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTk0M2Y0ZDEtNjliOC00OGUxLTlkOWYtYTE4YmRjNDM4MzgzIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9)
 
 ![Ballon d'Or Dashboard](/Overview.jpg)
 
